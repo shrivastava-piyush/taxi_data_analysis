@@ -1,6 +1,6 @@
-# taxi_data_analysis
+# Taxi Data Analysis
 
-Analysis of sample Taxi data to do the following:
+Analysis of sample Taxi data to accomplish the following:
 
 1. Count taxi rides
 2. Count day difference
